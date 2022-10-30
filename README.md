@@ -1,6 +1,6 @@
 
 ### Ukázkový projekt pro Actis s.r.o. 
-Do databáze jsou uloženy záznamy studentů: každý má jméno, příjmení, datum narození a informace o zaměstnaní jako atributy.
+Do databáze jsou uloženy záznamy studentů: každý má jméno, příjmení, datum narození a informace o zaměstnaní jako atributy. Program umožnuje výpis všech záznamu a výpis jednoho záznamu podle ID, které se přiřazuje automaticky.
 
 ##### com.actis.actisproject.model - definice třídy Student jako entity tabulky
 ##### com.actis.actisproject.exception - exception handling
